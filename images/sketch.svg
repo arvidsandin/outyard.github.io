@@ -425,9 +425,9 @@
      inkscape:window-height="2066"
      id="namedview817"
      showgrid="false"
-     inkscape:zoom="0.62168759"
-     inkscape:cx="-833.21421"
-     inkscape:cy="658.17727"
+     inkscape:zoom="0.87919902"
+     inkscape:cx="529.60976"
+     inkscape:cy="61.376055"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -441,7 +441,7 @@
   <image
      clip-path="url(#clipPath838)"
      style="opacity:1;filter:url(#filter2415)"
-     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,-1469.1436,-1125.5653)"
+     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,0,0)"
      width="2271.468"
      height="1703.6013"
      preserveAspectRatio="none"
@@ -457,23 +457,22 @@
      preserveAspectRatio="none"
      height="1703.6013"
      width="2271.468"
-     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,-2881.4285,-1125.5653)"
+     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,-1412.2849,0)"
      style="opacity:1;filter:url(#filter884)"
      clip-path="url(#clipPath838)" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     transform="translate(-2881.4285,-1125.5653)"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(-1412.2849)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline;filter:url(#filter2629)"
-     transform="translate(-1469.1436,-1125.5653)">
+     style="display:inline;filter:url(#filter2629)">
     <rect
-       style="opacity:1;fill:#3f5eff;fill-opacity:1;stroke:none;stroke-width:14;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+       style="opacity:1;fill:#2750ff;fill-opacity:1;stroke:none;stroke-width:14;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
        id="rect2605"
        width="1275"
        height="717"
@@ -483,7 +482,7 @@
   <image
      clip-path="url(#clipPath838-9)"
      style="opacity:1;filter:url(#filter2415-3);enable-background:new"
-     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,-1480.9274,0.2011)"
+     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,-11.7838,1125.7664)"
      width="2271.468"
      height="1703.6013"
      preserveAspectRatio="none"
@@ -494,7 +493,7 @@
   <image
      clip-path="url(#clipPath838-6)"
      style="opacity:1;filter:url(#filter2415-6);enable-background:new"
-     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,0,0)"
+     transform="matrix(0.83346468,0.55257274,-0.83346468,0.55257274,1469.1436,1125.5653)"
      width="2271.468"
      height="1703.6013"
      preserveAspectRatio="none"
